@@ -1,3 +1,5 @@
+--LOADSTRING
+--I HAVE NO IDEA WHO MADE THIS SCRIPT
 assert(identifyexecutor():find("ScriptWare"),"you are not using script ware")
 getgenv().protected = protected or {}
 getgenv().temp = temp or {}
