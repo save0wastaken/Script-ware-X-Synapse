@@ -1,4 +1,4 @@
---LOADSTRING
+--LOADSTRING loadstring(game:HttpGet("https://raw.githubusercontent.com/save0wastaken/Script-ware-X-Synapse/main/ScriptMain.lua"))()
 --I HAVE NO IDEA WHO MADE THIS SCRIPT
 assert(identifyexecutor():find("ScriptWare"),"you are not using script ware")
 getgenv().protected = protected or {}
